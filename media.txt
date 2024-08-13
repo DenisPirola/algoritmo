@@ -1,0 +1,10 @@
+inicio
+    real: N1, N2, N3, N4, MA;
+    leia (N1+N2+N3+N4);
+    MA ← (N1+N2+N3+N4)/ 4;
+    escreva(MA);
+    se (MA >= 7)
+        entao
+            escreva ("Aluno Aprovado");
+    fimse
+fim
